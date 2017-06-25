@@ -1,0 +1,3 @@
+[submodule "c-experiments"]
+	path = c-experiments
+	url = git@github.com:adnanyaqoobvirk/c-experiments.git
