@@ -1,3 +1,6 @@
 [submodule "c-experiments"]
 	path = c-experiments
 	url = git@github.com:adnanyaqoobvirk/c-experiments.git
+[submodule "nim-experiments"]
+	path = nim-experiments
+	url = git@github.com:adnanyaqoobvirk/nim-experiments.git
