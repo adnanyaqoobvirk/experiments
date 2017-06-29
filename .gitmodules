@@ -4,3 +4,6 @@
 [submodule "nim-experiments"]
 	path = nim-experiments
 	url = git@github.com:adnanyaqoobvirk/nim-experiments.git
+[submodule "rust-experiments"]
+	path = rust-experiments
+	url = git@github.com:adnanyaqoobvirk/rust-experiments.git
